@@ -1,0 +1,114 @@
+---
+object: card
+id: 28c2d4ee-c3cf-4faf-97ef-415d0253fd72
+oracle_id: 3c7ffc6c-88be-4127-a673-fba8c1aa5fa1
+multiverse_ids:
+- 271207
+mtgo_id: 45146
+mtgo_foil_id: 45147
+tcgplayer_id: 59535
+cardmarket_id: 256209
+name: Auratouched Mage
+lang: en
+released_at: '2012-06-01'
+uri: https://api.scryfall.com/cards/28c2d4ee-c3cf-4faf-97ef-415d0253fd72
+scryfall_uri: https://scryfall.com/card/pc2/3/auratouched-mage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/8/28c2d4ee-c3cf-4faf-97ef-415d0253fd72.jpg?1575571401
+  normal: https://cards.scryfall.io/normal/front/2/8/28c2d4ee-c3cf-4faf-97ef-415d0253fd72.jpg?1575571401
+  large: https://cards.scryfall.io/large/front/2/8/28c2d4ee-c3cf-4faf-97ef-415d0253fd72.jpg?1575571401
+  png: https://cards.scryfall.io/png/front/2/8/28c2d4ee-c3cf-4faf-97ef-415d0253fd72.png?1575571401
+  art_crop: https://cards.scryfall.io/art_crop/front/2/8/28c2d4ee-c3cf-4faf-97ef-415d0253fd72.jpg?1575571401
+  border_crop: https://cards.scryfall.io/border_crop/front/2/8/28c2d4ee-c3cf-4faf-97ef-415d0253fd72.jpg?1575571401
+mana_cost: "{5}{W}"
+cmc: 6.0
+type_line: Creature — Human Wizard
+oracle_text: When Auratouched Mage enters the battlefield, search your library for
+  an Aura card that could enchant it. If Auratouched Mage is still on the battlefield,
+  put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura
+  card and put it into your hand. Then shuffle.
+power: '3'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9fb2f83e-7015-4aa9-808f-310ccf0fdb9c
+set: pc2
+set_name: Planechase 2012
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/9fb2f83e-7015-4aa9-808f-310ccf0fdb9c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apc2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pc2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/28c2d4ee-c3cf-4faf-97ef-415d0253fd72/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c7ffc6c-88be-4127-a673-fba8c1aa5fa1&unique=prints
+collector_number: '3'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Miracola
+artist_ids:
+- 9b465bde-3656-4495-ace4-af4ce29999ed
+illustration_id: 0570ae35-3305-4a68-a062-6f9685e61585
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12897
+penny_rank: 9873
+prices:
+  usd: '0.38'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: '0.10'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271207
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Auratouched+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Auratouched+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Auratouched+Mage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/59535?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Auratouched+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/45146?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

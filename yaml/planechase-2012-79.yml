@@ -1,0 +1,126 @@
+---
+object: card
+id: 8e7e2570-f473-473d-9c67-dd753aafb6ae
+oracle_id: c7dbd008-e941-497e-8305-80c53b1dffe2
+multiverse_ids:
+- 271143
+mtgo_id: 44844
+mtgo_foil_id: 44845
+tcgplayer_id: 59607
+cardmarket_id: 256281
+name: Tukatongue Thallid
+lang: en
+released_at: '2012-06-01'
+uri: https://api.scryfall.com/cards/8e7e2570-f473-473d-9c67-dd753aafb6ae
+scryfall_uri: https://scryfall.com/card/pc2/79/tukatongue-thallid?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/e/8e7e2570-f473-473d-9c67-dd753aafb6ae.jpg?1575571959
+  normal: https://cards.scryfall.io/normal/front/8/e/8e7e2570-f473-473d-9c67-dd753aafb6ae.jpg?1575571959
+  large: https://cards.scryfall.io/large/front/8/e/8e7e2570-f473-473d-9c67-dd753aafb6ae.jpg?1575571959
+  png: https://cards.scryfall.io/png/front/8/e/8e7e2570-f473-473d-9c67-dd753aafb6ae.png?1575571959
+  art_crop: https://cards.scryfall.io/art_crop/front/8/e/8e7e2570-f473-473d-9c67-dd753aafb6ae.jpg?1575571959
+  border_crop: https://cards.scryfall.io/border_crop/front/8/e/8e7e2570-f473-473d-9c67-dd753aafb6ae.jpg?1575571959
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Creature — Fungus
+oracle_text: When Tukatongue Thallid dies, create a 1/1 green Saproling creature token.
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 34e5ec9e-8e9c-4396-86b3-c9ca99eaf2fa
+  component: token
+  name: Saproling
+  type_line: Token Creature — Saproling
+  uri: https://api.scryfall.com/cards/34e5ec9e-8e9c-4396-86b3-c9ca99eaf2fa
+- object: related_card
+  id: 8e7e2570-f473-473d-9c67-dd753aafb6ae
+  component: combo_piece
+  name: Tukatongue Thallid
+  type_line: Creature — Fungus
+  uri: https://api.scryfall.com/cards/8e7e2570-f473-473d-9c67-dd753aafb6ae
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9fb2f83e-7015-4aa9-808f-310ccf0fdb9c
+set: pc2
+set_name: Planechase 2012
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/9fb2f83e-7015-4aa9-808f-310ccf0fdb9c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apc2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pc2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8e7e2570-f473-473d-9c67-dd753aafb6ae/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac7dbd008-e941-497e-8305-80c53b1dffe2&unique=prints
+collector_number: '79'
+digital: false
+rarity: common
+flavor_text: Jund's thallids tried to disguise their deliciousness by covering themselves
+  in spines harvested from the tukatongue tree.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vance Kovacs
+artist_ids:
+- b5516011-4722-4fc8-8542-102cecc52b71
+illustration_id: 2f53fc49-d669-433b-8dac-8d5d02e21ac4
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9946
+penny_rank: 7523
+prices:
+  usd: '0.17'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271143
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tukatongue+Thallid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tukatongue+Thallid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tukatongue+Thallid
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/59607?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tukatongue+Thallid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/44844?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

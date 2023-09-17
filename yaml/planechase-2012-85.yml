@@ -1,0 +1,114 @@
+---
+object: card
+id: 0d6df801-abe1-4c49-84c9-c2737bb4fbf2
+oracle_id: f9e31993-bfe1-46fb-8a32-418e97f9cfe1
+multiverse_ids:
+- 271168
+mtgo_id: 44854
+mtgo_foil_id: 44855
+tcgplayer_id: 59612
+cardmarket_id: 256286
+name: Deny Reality
+lang: en
+released_at: '2012-06-01'
+uri: https://api.scryfall.com/cards/0d6df801-abe1-4c49-84c9-c2737bb4fbf2
+scryfall_uri: https://scryfall.com/card/pc2/85/deny-reality?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/d/0d6df801-abe1-4c49-84c9-c2737bb4fbf2.jpg?1575572007
+  normal: https://cards.scryfall.io/normal/front/0/d/0d6df801-abe1-4c49-84c9-c2737bb4fbf2.jpg?1575572007
+  large: https://cards.scryfall.io/large/front/0/d/0d6df801-abe1-4c49-84c9-c2737bb4fbf2.jpg?1575572007
+  png: https://cards.scryfall.io/png/front/0/d/0d6df801-abe1-4c49-84c9-c2737bb4fbf2.png?1575572007
+  art_crop: https://cards.scryfall.io/art_crop/front/0/d/0d6df801-abe1-4c49-84c9-c2737bb4fbf2.jpg?1575572007
+  border_crop: https://cards.scryfall.io/border_crop/front/0/d/0d6df801-abe1-4c49-84c9-c2737bb4fbf2.jpg?1575572007
+mana_cost: "{3}{U}{B}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: |-
+  Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+  Return target permanent to its owner's hand.
+colors:
+- B
+- U
+color_identity:
+- B
+- U
+keywords:
+- Cascade
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9fb2f83e-7015-4aa9-808f-310ccf0fdb9c
+set: pc2
+set_name: Planechase 2012
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/9fb2f83e-7015-4aa9-808f-310ccf0fdb9c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apc2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pc2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0d6df801-abe1-4c49-84c9-c2737bb4fbf2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af9e31993-bfe1-46fb-8a32-418e97f9cfe1&unique=prints
+collector_number: '85'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jean-Sébastien Rossbach
+artist_ids:
+- 1b0c07a7-84e8-4384-9b97-28c162586558
+illustration_id: 86349052-681b-43cc-a75b-c514fbe2eac7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9116
+penny_rank: 5063
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.06'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271168
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deny+Reality&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deny+Reality&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Deny+Reality
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/59612?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deny+Reality&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/44854?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

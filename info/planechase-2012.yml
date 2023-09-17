@@ -1,0 +1,18 @@
+---
+object: set
+id: 9fb2f83e-7015-4aa9-808f-310ccf0fdb9c
+code: pc2
+mtgo_code: pc2
+arena_code: pc2
+tcgplayer_id: 363
+name: Planechase 2012
+uri: https://api.scryfall.com/sets/9fb2f83e-7015-4aa9-808f-310ccf0fdb9c
+scryfall_uri: https://scryfall.com/sets/pc2
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apc2&unique=prints
+released_at: '2012-06-01'
+set_type: planechase
+card_count: 156
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pc2.svg?1694404800
